@@ -125,7 +125,7 @@ pytest==7.1.1
     #   -r requirements/tests.in
     #   pytest-asyncio
     #   pytest-pop
-pyyaml==6.0
+pyyaml==6.0.1
     # via
     #   acct
     #   dict-toolbox
