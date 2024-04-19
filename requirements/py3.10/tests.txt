@@ -42,7 +42,7 @@ charset-normalizer==2.0.12
     # via aiohttp
 colored==1.4.3
     # via rend
-cryptography==37.0.2
+cryptography==42.0.2
     # via acct
 dict-toolbox==2.2.0
     # via
