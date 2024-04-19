@@ -12,7 +12,7 @@ aiofiles==0.8.0
     # via
     #   acct
     #   dict-toolbox
-aiohttp[speedups]==3.8.1
+aiohttp[speedups]==3.9.4
     # via pop-aiohttp
 aiosignal==1.2.0
     # via aiohttp
