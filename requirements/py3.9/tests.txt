@@ -32,14 +32,10 @@ brotli==1.0.9
     # via aiohttp
 bs4==0.0.1
     # via -r requirements/base.txt
-cchardet==2.1.7
-    # via aiohttp
 cffi==1.15.0
     # via
     #   cryptography
     #   pycares
-charset-normalizer==2.0.12
-    # via aiohttp
 colored==1.4.3
     # via rend
 cryptography==42.0.2
